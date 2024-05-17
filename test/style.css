@@ -1,0 +1,39 @@
+#test-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#test-list li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+#question-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+#options-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#options-list li {
+    margin: 5px 0;
+}
+
+#options-list input[type="radio"] {
+    margin-right: 5px;
+}
+
+.test-button {
+    width: 100px;
+    color: blue;
+}
